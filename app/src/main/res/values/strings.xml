@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpanceTracker</string>
+    <string name="app_day1">সোমবার</string>
+    <string name="app_day2">মঙ্গলবার</string>
+    <string name="app_day3">বুধবার</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

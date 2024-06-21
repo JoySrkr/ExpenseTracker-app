@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpanceTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- <Ekdom upore color orange korar jonno> -->
+
+        <item name="colorPrimary">@color/orange</item>
+
+
+    </style>
+
+    <style name="Theme.ExpanceTracker" parent="Base.Theme.ExpanceTracker" />
+
+    <style name="App.CustomIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/orangeDark</item>
+    </style>
+
+</resources>
