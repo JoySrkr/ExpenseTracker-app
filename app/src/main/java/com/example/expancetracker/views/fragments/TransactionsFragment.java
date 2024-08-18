@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 
 import com.example.expancetracker.R;
 import com.example.expancetracker.adapters.TransactionsAdapter;
+/*import com.example.expancetracker.databinding.FragmentTransactionsBinding; */
 import com.example.expancetracker.databinding.FragmentTransactionsBinding;
 import com.example.expancetracker.models.Transaction;
 import com.example.expancetracker.utils.Constants;

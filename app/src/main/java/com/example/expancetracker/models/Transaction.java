@@ -13,6 +13,7 @@ public class Transaction extends RealmObject {
     @PrimaryKey
     private long id;
 
+
     public Transaction()  {
 
     }
@@ -26,6 +27,7 @@ public class Transaction extends RealmObject {
         this.amount = amount;
         this.id = id;
     }
+
 
     public String getType() {
         return type;
@@ -82,4 +84,8 @@ public class Transaction extends RealmObject {
     public void setId(long id) {
         this.id = id;
     }
+
+
+
+
 }
